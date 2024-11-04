@@ -7,6 +7,8 @@
 - **RM552302** - Samara Moreira
 - **RM552293** - Vinicius Monteiro
 
+- link projeto- https://github.com/Nxtlevelbr/AiHackApi.ML
+
 ## Descrição do Projeto
 AiHackApi é uma API RESTful construída com ASP.NET Core para gerenciar consultas médicas, recomendações de especialistas e outros serviços
 de saúde. Além das operações CRUD tradicionais, a aplicação oferece uma funcionalidade de recomendação de especialistas médicos com base nos
@@ -91,3 +93,15 @@ dotnet build
 
 # Execute a Aplicação
 dotnet run
+
+- link projeto- https://github.com/Nxtlevelbr/AiHackApi.ML
+
+
+## Equipe de Desenvolvimento
+- **RM99841** - Marcel Prado Soddano
+- **RM551261** - Giovanni Sguizzardi
+- **RM98057** - Nicolas E. Inohue
+- **RM552302** - Samara Moreira
+- **RM552293** - Vinicius Monteiro
+
+
