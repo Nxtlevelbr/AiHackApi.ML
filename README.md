@@ -96,12 +96,3 @@ dotnet run
 
 - link projeto- https://github.com/Nxtlevelbr/AiHackApi.ML
 
-
-## Equipe de Desenvolvimento
-- **RM99841** - Marcel Prado Soddano
-- **RM551261** - Giovanni Sguizzardi
-- **RM98057** - Nicolas E. Inohue
-- **RM552302** - Samara Moreira
-- **RM552293** - Vinicius Monteiro
-
-
