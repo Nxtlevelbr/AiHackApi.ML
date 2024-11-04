@@ -64,12 +64,31 @@ O Swagger permite a documentação e teste interativo dos endpoints. Acesse em: 
 - **.NET SDK 8.0**: Verifique com `dotnet --version`.
 - **Banco de Dados Oracle**: Deve estar configurado e em execução.
 
-### Passos para executar a aplicação
-1. **Clone o Repositório**:
+# Passos para Executar a Aplicação
 
-  git@github.com:Nxtlevelbr/AiHackApi.ML.git
+# Clone o Repositório
+# Abra o terminal e execute o comando abaixo para clonar o repositório em sua máquina local:
+git clone git@github.com:Nxtlevelbr/AiHackApi.ML.git
 
-   ## Equipe de Desenvolvimento
+# Acesse o Diretório do Projeto
+# Navegue até o diretório recém-clonado:
+cd AiHackApi.ML
+
+# Instale as Dependências
+# Exemplo para projetos .NET:
+dotnet restore
+
+# Compile o Projeto
+# Se o projeto precisar de compilação, execute o comando:
+dotnet build
+
+# Execute a Aplicação
+# Após compilar, inicie a aplicação com o comando:
+dotnet run
+
+# Acesse a Aplicação (atualizar a pagina se preciso)
+# Acesse a aplicação no navegador ou em um cliente API pelo endereço padrão:
+# Geralmente é http://localhost:5066 ou conforme especificado nas configurações do projeto.
 
 - RM99841 - Marcel Prado Soddano
 - RM551261 - Giovanni Sguizzardi
